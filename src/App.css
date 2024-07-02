@@ -121,7 +121,11 @@ img.card-img-top.img-fluid{
 }
 
 
-
+.logo-img {
+  width: 170px;
+  margin-left: -20px;
+  margin-top: 15px;
+}
 
 
 
@@ -130,6 +134,7 @@ img.card-img-top.img-fluid{
     text-align: center;
   }
   .logo-img{
-    max-width: 200px;
+    max-width: 130px;
+    margin-left: 5px;
   }
 }
