@@ -4,6 +4,9 @@ canvas {
   background-color: #000000 !important;
   z-index: 1 !important;
 }
+
+
+
 .my-img{
   position: relative;
   z-index: 2;

@@ -1,5 +1,5 @@
 import React from "react";
-import shaheerImg from "../components/Layer-1.png";
+import shaheerImg from "../assets/Layer-1.png";
 import Typewriter from "typewriter-effect";
 function Banner() {
   return (
@@ -19,7 +19,7 @@ function Banner() {
         </div>
       </div>
       <div className="col-md-4 text-center">
-        <img className="my-img" src={shaheerImg} />
+        <img className="my-img border-bg-white border" src={shaheerImg} />
       </div>
     </div>
   );
